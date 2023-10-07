@@ -131,7 +131,7 @@
         <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson-spring-boot-starter</artifactId>
-            <version>3.17.3</version>
+            <version>3.22.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.session</groupId>
@@ -313,7 +313,7 @@
         <dependency>
             <groupId>io.fabric8</groupId>
             <artifactId>kubernetes-client</artifactId>
-            <version>4.13.2</version>
+            <version>6.9.0</version>
         </dependency>
 
         <dependency>
