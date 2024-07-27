@@ -131,7 +131,7 @@
         <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson-spring-boot-starter</artifactId>
-            <version>3.17.3</version>
+            <version>3.21.1</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.session</groupId>
@@ -162,7 +162,7 @@
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-ui</artifactId>
-            <version>1.6.3</version>
+            <version>1.7.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-rsocket -->
@@ -313,7 +313,7 @@
         <dependency>
             <groupId>io.fabric8</groupId>
             <artifactId>kubernetes-client</artifactId>
-            <version>4.13.2</version>
+            <version>6.0.0</version>
         </dependency>
 
         <dependency>
