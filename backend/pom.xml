@@ -20,7 +20,7 @@
         <!-- 第三方不包统一版本，如果不指定，Spring 会为我们选择匹配的版本 -->
         <dubbo.version>2.7.15</dubbo.version>
         <flyway.version>7.15.0</flyway.version>
-        <shiro.version>1.9.0</shiro.version>
+        <shiro.version>2.0.5</shiro.version>
         <mssql-jdbc.version>7.4.1.jre8</mssql-jdbc.version>
         <postgresql.version>42.3.2</postgresql.version>
         <java-websocket.version>1.5.3</java-websocket.version>
@@ -131,7 +131,7 @@
         <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson-spring-boot-starter</artifactId>
-            <version>3.17.3</version>
+            <version>3.21.1</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.session</groupId>
@@ -162,7 +162,7 @@
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-ui</artifactId>
-            <version>1.6.3</version>
+            <version>1.7.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-rsocket -->
@@ -313,7 +313,7 @@
         <dependency>
             <groupId>io.fabric8</groupId>
             <artifactId>kubernetes-client</artifactId>
-            <version>4.13.2</version>
+            <version>7.0.0</version>
         </dependency>
 
         <dependency>
